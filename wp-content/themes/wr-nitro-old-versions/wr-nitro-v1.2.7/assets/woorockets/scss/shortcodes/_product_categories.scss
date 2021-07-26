@@ -1,0 +1,49 @@
+/*	[ Product categories ]
+- - - - - - - - - - - - - - - - - - - - */
+.sc-product-cat {
+	display: table;
+	margin: auto;
+	img {
+		@extend %width-100;
+		@extend %opacity-1;
+	}
+	.sc-product-cat:hover img {
+		opacity: 0.7;
+	}
+	> div {
+		bottom: 20px;
+		padding: 10px;
+		left: 0;
+		right: 0;
+		width: 70%;
+		margin: 0 auto;
+		box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+	}
+	> div a {
+		font-size: 14px;
+	}
+	> div .count {
+		font-size: 10px;
+	}
+}
+.sc-cat-list {
+	ul {
+		list-style: none;
+		li {
+			border-bottom: 1px solid;
+			a {
+				padding: 7px 10px;
+				border-left: 2px solid transparent;
+				display: block;
+				margin: 0;
+			}
+		}
+	}
+	.title {
+		padding: 13px 20px;
+	}
+	.title,
+	.title:hover {
+		color: #fff;
+	}
+}

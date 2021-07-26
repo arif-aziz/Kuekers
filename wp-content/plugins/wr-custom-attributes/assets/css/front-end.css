@@ -1,0 +1,114 @@
+/**
+ * @version    1.0
+ * @package    WR_Custom_Attributes
+ * @author     WooRockets Team <support@woorockets.com>
+ * @copyright  Copyright (C) 2014 WooRockets.com. All Rights Reserved.
+ * @license    GNU/GPL v2 or later http://www.gnu.org/licenses/gpl-2.0.html
+ *
+ * Websites: http://www.woorockets.com
+ */
+
+.wr-custom-attribute {
+	margin: -3px;
+	list-style: none;
+}
+.wr-custom-attribute li {
+	float: left;
+	margin: 3px;
+}
+.wr-custom-attribute li a {
+	display: block;
+	position: relative;
+	border: 1px solid #ddd;
+}
+.wr-custom-attribute.color-picker li a {
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+}
+.wr-custom-attribute.color-picker li a:after {
+	content: '';
+	position: absolute;
+	display: inline-block;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	border: 2px solid #fff;
+	border-radius: 50%;
+}
+.wr-custom-attribute li a:hover {
+	border-color: #323232;
+}
+.wr-custom-attribute li.selected a {
+	border-color: #323232 !important;
+}
+.wr-custom-attribute.image-select li a img {
+	width: 60px;
+	height: 60px;
+}
+.wr-custom-attribute.text-label li a {
+	display: inline-block;
+	padding: 0 .5em;
+	text-transform: uppercase;
+	min-width: 30px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	color: #3d3d3d;
+	border-radius: 3px;
+}
+a.wr-tooltip {
+	position: relative;
+	outline: none;
+	border: 0;
+	text-decoration: none;
+}
+a.wr-tooltip span {
+	bottom: calc(100% + 20px);
+	opacity: 0;
+	visibility: hidden;
+	line-height: 20px;
+	color: #eee;
+	font-size: 11px;
+	text-align: center;
+	border-radius: 2px;
+	z-index: 10;
+	background: #333;
+	white-space: nowrap;
+	padding: 5px 15px;
+}
+a.wr-tooltip span:after {
+	content: '';
+	border-left: 5px solid transparent;
+	border-right: 5px solid transparent;
+	border-top: 5px solid #333;
+	top: 100%;
+}
+a.wr-tooltip:hover span,
+a.wr-tooltip.hover span {
+	opacity: 1;
+	visibility: visible;
+	bottom: calc(100% + 10px);
+}
+a.wr-tooltip span,
+a.wr-tooltip span:after  {
+	left: 50%;
+	position: absolute;
+	-webkit-transform: translateX(-50%);
+	-ms-transform: translateX(-50%);
+	-o-transform: translateX(-50%);
+	transform: translateX(-50%);
+}
+a.wr-tooltip strong {
+	line-height: 30px;
+}
+a.wr-tooltip span,
+.wr-custom-attribute li a {
+	transition: all linear .2s;
+	-moz-transition: all linear .2s;
+	-webkit-transition: all linear .2s;
+}
+.wr-mobile a.wr-tooltip span {
+	display: none;
+}

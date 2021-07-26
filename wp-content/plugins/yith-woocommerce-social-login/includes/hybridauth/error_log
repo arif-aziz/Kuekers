@@ -1,0 +1,27 @@
+[17-Jun-2017 17:58:27 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/yith-woocommerce-social-login/includes/hybridauth/Hybrid/Endpoint.php:211
+Stack trace:
+#0 /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/yith-woocommerce-social-login/includes/hybridauth/Hybrid/Endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/yith-woocommerce-social-login/includes/hybridauth/Hybrid/Endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/yith-woocommerce-social-login/includes/hybridauth/Hybrid/Endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/yith-woocommerce-social-login/includes/hybridauth/index.php(16): Hybrid_Endpoint::process()
+#4 {main}
+
+Next exception 'Hybrid_Exception' with mess in /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/yith-woocommerce-social-login/includes/hybridauth/Hybrid/Endpoint.php on line 217
+[17-Jun-2017 17:58:28 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/yith-woocommerce-social-login/includes/hybridauth/Hybrid/Endpoint.php:211
+Stack trace:
+#0 /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/yith-woocommerce-social-login/includes/hybridauth/Hybrid/Endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/yith-woocommerce-social-login/includes/hybridauth/Hybrid/Endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/yith-woocommerce-social-login/includes/hybridauth/Hybrid/Endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/yith-woocommerce-social-login/includes/hybridauth/index.php(16): Hybrid_Endpoint::process()
+#4 {main}
+
+Next exception 'Hybrid_Exception' with mess in /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/yith-woocommerce-social-login/includes/hybridauth/Hybrid/Endpoint.php on line 217
+[17-Jun-2017 17:58:29 UTC] PHP Fatal error:  Uncaught exception 'Hybrid_Exception' with message 'You cannot access this page directly.' in /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/yith-woocommerce-social-login/includes/hybridauth/Hybrid/Endpoint.php:211
+Stack trace:
+#0 /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/yith-woocommerce-social-login/includes/hybridauth/Hybrid/Endpoint.php(117): Hybrid_Endpoint->authInit()
+#1 /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/yith-woocommerce-social-login/includes/hybridauth/Hybrid/Endpoint.php(51): Hybrid_Endpoint->processAuthStart()
+#2 /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/yith-woocommerce-social-login/includes/hybridauth/Hybrid/Endpoint.php(72): Hybrid_Endpoint->__construct(NULL)
+#3 /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/yith-woocommerce-social-login/includes/hybridauth/index.php(16): Hybrid_Endpoint::process()
+#4 {main}
+
+Next exception 'Hybrid_Exception' with mess in /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/yith-woocommerce-social-login/includes/hybridauth/Hybrid/Endpoint.php on line 217

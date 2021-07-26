@@ -1,0 +1,98 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-16 11:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: WooRockets <support@woorockets.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: includes/core.php:38
+msgid "Color Picker"
+msgstr ""
+
+#: includes/core.php:39
+msgid "Image Select"
+msgstr ""
+
+#: includes/core.php:40
+msgid "Text Label"
+msgstr ""
+
+#: templates/admin/edit/color-picker.php:17 
+#: templates/admin/new/color-picker.php:17
+msgid "Color"
+msgstr ""
+
+#: templates/admin/edit/color-picker.php:22 
+#: templates/admin/new/color-picker.php:19
+msgid "Please pick a color."
+msgstr ""
+
+#: templates/admin/edit/color-picker.php:26 
+#: templates/admin/edit/image-select.php:30 
+#: templates/admin/edit/text-label.php:23 
+#: templates/admin/new/color-picker.php:22 
+#: templates/admin/new/image-select.php:26 
+#: templates/admin/new/text-label.php:19
+msgid "Tooltip"
+msgstr ""
+
+#: templates/admin/edit/image-select.php:16 
+#: templates/admin/new/image-select.php:16
+msgid "Image"
+msgstr ""
+
+#: templates/admin/edit/image-select.php:22 
+#: templates/admin/new/image-select.php:19
+msgid "Click to select an existing image or upload a new one"
+msgstr ""
+
+#: templates/admin/edit/image-select.php:24 
+#: templates/admin/edit/image-select.php:51 
+#: templates/admin/new/image-select.php:21 
+#: templates/admin/new/image-select.php:43
+msgid "Select"
+msgstr ""
+
+#: templates/admin/edit/image-select.php:26 
+#: templates/admin/new/image-select.php:23
+msgid "Please select an image."
+msgstr ""
+
+#: templates/admin/edit/image-select.php:55 
+#: templates/admin/new/image-select.php:47
+msgid "Select an image"
+msgstr ""
+
+#: templates/admin/edit/text-label.php:14 templates/admin/new/text-label.php:14
+msgid "Label"
+msgstr ""
+
+#. Name of the plugin
+msgid "WR Custom Attributes"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"An add-on for WooCommerce that provides some custom product attribute types."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.woorockets.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "WooRockets <admin@woorockets.com>"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://woorockets.com/"
+msgstr ""

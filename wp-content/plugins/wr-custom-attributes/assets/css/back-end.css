@@ -1,0 +1,105 @@
+/**
+ * @version 1.0
+ * @package WR_Custom_Attributes
+ * @author WooRockets Team <support@woorockets.com>
+ * @copyright Copyright (C) 2014 WooRockets.com. All Rights Reserved.
+ * @license GNU/GPL v2 or later http://www.gnu.org/licenses/gpl-2.0.html
+ *
+ * Websites: http://www.woorockets.com
+ */
+
+[id^="product-gallery-color-"] .inside {
+	margin: 0;
+	padding: 0;
+}
+[id^="product-gallery-color-"] .inside .add_product_variation_images {
+	padding: 0 12px 12px;
+}
+
+.product_variation_images_container {
+	padding: 0 0 0 9px;
+}
+.product_variation_images_container ul.product_images {
+	margin: 0;
+	padding: 0;
+}
+.product_variation_images_container ul.product_images:before {
+	content: " ";
+	display: table;
+}
+.product_variation_images_container ul.product_images:after {
+	content: " ";
+	display: table;
+	clear: both;
+}
+
+.product_variation_images_container ul.product_images li.image {
+	width: 80px;
+	float: left;
+	cursor: move;
+	border: 1px solid #d5d5d5;
+	margin: 9px 9px 0 0;
+	background: #f7f7f7;
+	border-radius: 2px;
+	position: relative;
+	box-sizing: border-box;
+}
+.product_variation_images_container ul.product_images li.image img {
+	width: 100%;
+	height: auto;
+	display: block;
+}
+
+.product_variation_images_container ul.product_images li.image ul.actions {
+	position: absolute;
+	top: -8px;
+	right: -8px;
+	padding: 2px;
+	display: none;
+}
+.product_variation_images_container ul.product_images li.image:hover ul.actions {
+	display: block;
+}
+
+.product_variation_images_container ul.product_images li.image ul.actions li {
+	float: right;
+	margin: 0 0 0 2px;
+}
+.product_variation_images_container ul.product_images li.image ul.actions li a {
+	width: 1em;
+	margin: 0;
+	height: 0;
+	display: block;
+	overflow: hidden;
+}
+
+.product_variation_images_container ul.product_images li.image ul.actions li a.tips {
+	cursor: pointer;
+}
+.product_variation_images_container ul.product_images li.image ul.actions li a.delete {
+	display: block;
+	text-indent: -9999px;
+	position: relative;
+	height: 1em;
+	width: 1em;
+	font-size: 1.4em;
+}
+.product_variation_images_container ul.product_images li.image ul.actions li a.delete:before {
+	font-family: Dashicons;
+	speak: none;
+	font-weight: 400;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	margin: 0;
+	text-indent: 0;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	content: "";
+	color: #999;
+}

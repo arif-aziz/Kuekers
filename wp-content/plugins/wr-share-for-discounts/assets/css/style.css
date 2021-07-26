@@ -1,0 +1,124 @@
+/**
+ * @version    1.0
+ * @package    WR_Share_For_Discounts
+ * @author     WooRockets Team <support@woorockets.com>
+ * @copyright  Copyright (C) 2014 WooRockets.com. All Rights Reserved.
+ * @license    GNU/GPL v2 or later http://www.gnu.org/licenses/gpl-2.0.html
+ *
+ * Websites: http://www.woorockets.com
+ */
+ .wr-product-share {
+ 	z-index: 999;
+ }
+.wr-product-share [class*="sharing"] {
+	float: left;
+	margin-right: 5px;
+}
+.wr-product-share .share-boxs {
+	line-height: 30px;
+	padding-top: 40px;
+}
+.wr-product-share iframe {
+	max-width: none;
+	z-index: 9999;
+	margin: 0;
+	vertical-align: inherit;
+	position: static;
+}
+.wr-product-share .facebook-sharing .wr-share-to-fb-button {
+	background: #4c69ba;
+	background: -webkit-linear-gradient(#4c69ba, #3b55a0);
+	background: linear-gradient(#4c69ba, #3b55a0);
+	border: none;
+	border-radius: 2px;
+	color: #fff;
+	cursor: pointer;
+	font-weight: bold;
+	height: 20px;
+	line-height: 20px;
+	margin-left: 5px;
+	padding: 0 5px;
+	text-shadow: 0 -1px 0 #354c8c;
+	white-space: nowrap;
+	float: left;
+}
+ .wr-product-share .facebook-sharing .wr-share-to-fb-button:hover {
+	background: #5b7bd5;
+	background: -webkit-linear-gradient(#5b7bd5, #4864b1);
+	background: linear-gradient(#5b7bd5, #4864b1);
+	border-color: #5874c3 #4961a8 #41599f;
+	box-shadow: inset 0 0 1px #607fd6;
+	color: #fff;
+}
+ .wr-product-share .facebook-sharing .wr-share-to-fb-button .fb-image {
+	display: inline-block;
+}
+ .wr-product-share .facebook-sharing .wr-share-to-fb-button .fb-text {
+	position: relative;
+	vertical-align: top;
+	font-family: helvetica, arial, sans-serif;
+	font-size: 11px;
+}
+ .wr-product-share .facebook-sharing .fb_iframe_widget {
+	float: left;
+	line-height: 20px;
+	height: 20px;
+}
+ .wr-product-share .facebook-sharing .fb_iframe_widget span {
+	vertical-align: initial !important;
+}
+.wr-product-share .google-plus-sharing .wm {
+	margin-left: 2px;
+}
+.wr-share-modal {
+	position: fixed;
+	background: rgba(0,0,0,.8);
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 11;
+	opacity: 0;
+	visibility: hidden;
+	-webkit-transition: .3s all;
+	transition: .3s all;
+}
+.wr-share-modal.show {
+	opacity: 1;
+	visibility: visible;
+}
+.wr-share-mask .header-outer + div {
+	z-index: 11 !important;
+}
+.wr-share-modal-content {
+	-ms-align-items: center;
+	-ms-flex-align: center;
+	align-items: center;
+	-webkit-align-items: center;
+	-webkit-box-align: center;
+	-ms-flex-direction: column;
+	flex-direction: column;
+	-webkit-flex-direction: column;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	height: 100%;
+	width: 100%;
+}
+.wr-share-modal-content,
+.wr-share-modal .share-boxs {
+	display: -ms-flexbox;
+	display: flex;
+	display: -webkit-box;
+	display: -webkit-flex;
+	-ms-justify-content: center;
+	-ms-flex-pack: distribute;
+	justify-content: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+}
+.wr-share-modal-inner {
+	padding: 0 100px;
+}
+.wr-share-modal .wr-share-message {
+	color: #fff;
+}

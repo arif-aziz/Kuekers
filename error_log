@@ -1,0 +1,265 @@
+[16-Jun-2017 10:00:51 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 2560 bytes) in /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-includes/widgets/class-wp-widget-links.php on line 137
+[16-Jun-2017 17:16:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/subscribe-to-new-woocommerce-products/includes/class-wc-customer-product-subscription-email.php:239) in /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-includes/pluggable.php on line 1195
+[16-Jun-2017 17:23:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/subscribe-to-new-woocommerce-products/includes/class-wc-customer-product-subscription-email.php:239) in /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-includes/pluggable.php on line 1195
+[17-Jun-2017 05:09:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/subscribe-to-new-woocommerce-products/includes/class-wc-customer-product-subscription-email.php:239) in /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-includes/pluggable.php on line 1195
+[17-Jun-2017 05:17:22 UTC] PHP Fatal error:  Call to undefined function wp() in /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-blog-header.php on line 16
+[17-Jun-2017 05:25:25 UTC] PHP Fatal error:  Class 'WC_Product_Subscription_Email' not found in /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/subscribe-to-new-woocommerce-products/subscribe-to-new-woocommerce-products.php on line 156
+[17-Jun-2017 05:26:09 UTC] PHP Fatal error:  Class 'WC_Product_Subscription_Email' not found in /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/subscribe-to-new-woocommerce-products/subscribe-to-new-woocommerce-products.php on line 156
+[17-Jun-2017 11:22:10 UTC] PHP Warning:  Missing argument 2 for wc_maybe_store_user_agent() in /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/woocommerce/includes/wc-core-functions.php on line 1516
+[17-Jun-2017 11:22:10 UTC] PHP Warning:  Missing argument 2 for wc_maybe_store_user_agent() in /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/woocommerce/includes/wc-core-functions.php on line 1516
+[17-Jun-2017 11:35:44 UTC] PHP Warning:  Missing argument 2 for wc_maybe_store_user_agent() in /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/woocommerce/includes/wc-core-functions.php on line 1516
+[17-Jun-2017 11:35:44 UTC] PHP Warning:  Missing argument 2 for wc_maybe_store_user_agent() in /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/woocommerce/includes/wc-core-functions.php on line 1516
+[17-Jun-2017 11:38:21 UTC] PHP Warning:  Missing argument 2 for wc_maybe_store_user_agent() in /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/woocommerce/includes/wc-core-functions.php on line 1516
+[17-Jun-2017 11:38:21 UTC] PHP Warning:  Missing argument 2 for wc_maybe_store_user_agent() in /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/woocommerce/includes/wc-core-functions.php on line 1516
+[17-Jun-2017 11:39:17 UTC] PHP Warning:  Missing argument 2 for wc_maybe_store_user_agent() in /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/woocommerce/includes/wc-core-functions.php on line 1516
+[17-Jun-2017 11:39:17 UTC] PHP Warning:  Missing argument 2 for wc_maybe_store_user_agent() in /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/woocommerce/includes/wc-core-functions.php on line 1516
+[17-Jun-2017 12:03:14 UTC] PHP Warning:  Missing argument 2 for wc_maybe_store_user_agent() in /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/woocommerce/includes/wc-core-functions.php on line 1516
+[17-Jun-2017 12:03:14 UTC] PHP Warning:  Missing argument 2 for wc_maybe_store_user_agent() in /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/woocommerce/includes/wc-core-functions.php on line 1516
+[13-Jul-2017 03:40:52 UTC] PHP Fatal error:  Call to a member function authenticate() on null in /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/yith-woocommerce-social-login/includes/class-yith-social-login.php on line 163
+[24-Jul-2017 07:20:37 UTC] PHP Fatal error:  Call to a member function authenticate() on null in /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/yith-woocommerce-social-login/includes/class-yith-social-login.php on line 163
+[25-Jul-2017 05:50:03 UTC] PHP Warning:  Illegal offset type in isset or empty in /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-includes/plugin.php on line 108
+[25-Jul-2017 05:50:03 UTC] PHP Warning:  Illegal offset type in /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-includes/plugin.php on line 109
+[25-Jul-2017 05:50:03 UTC] PHP Warning:  Illegal offset type in /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-includes/plugin.php on line 111
+[25-Jul-2017 05:50:03 UTC] PHP Fatal error:  Call to a member function add_filter() on null in /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-includes/plugin.php on line 111
+[26-Jul-2017 05:17:11 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid order.' in /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:86
+Stack trace:
+#0 /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(143): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-order.php(109): WC_Data_Store->read(Object(WC_Order))
+#2 /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/seed-confirm-master/seed-confirm.php(599): WC_Abstract_Order->__construct('12')
+#3 [internal function]: seed_confirm_init('')
+#4 /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-includes/class-wp-hook.php(298): call_user_func_array('seed_confirm_in...', Array)
+#5 /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-includes/class-wp-hook.php(323): WP_Hook->app in /home/pradesga/kuekers.pradesga.com/arif-rahman-aziz/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php on line 86
+[04-Sep-2017 13:31:03 UTC] WordPress database error Table 'wp_woocommerce_order_items' already exists for query 
+CREATE TABLE wp_woocommerce_order_items (
+  order_item_id BIGINT UNSIGNED NOT NULL auto_increment,
+  order_item_name TEXT NOT NULL,
+  order_item_type varchar(200) NOT NULL DEFAULT '',
+  order_id BIGINT UNSIGNED NOT NULL,
+  PRIMARY KEY  (order_item_id),
+  KEY order_id (order_id)
+) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[04-Sep-2017 13:31:04 UTC] WordPress database error Table 'wp_woocommerce_payment_tokens' already exists for query 
+CREATE TABLE wp_woocommerce_payment_tokens (
+  token_id BIGINT UNSIGNED NOT NULL auto_increment,
+  gateway_id varchar(200) NOT NULL,
+  token text NOT NULL,
+  user_id BIGINT UNSIGNED NOT NULL DEFAULT '0',
+  type varchar(200) NOT NULL,
+  is_default tinyint(1) NOT NULL DEFAULT '0',
+  PRIMARY KEY  (token_id),
+  KEY user_id (user_id)
+) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[04-Sep-2017 13:31:04 UTC] WordPress database error Table 'wp_woocommerce_payment_tokenmeta' already exists for query 
+CREATE TABLE wp_woocommerce_payment_tokenmeta (
+  meta_id BIGINT UNSIGNED NOT NULL auto_increment,
+  payment_token_id BIGINT UNSIGNED NOT NULL,
+  meta_key varchar(255) NULL,
+  meta_value longtext NULL,
+  PRIMARY KEY  (meta_id),
+  KEY payment_token_id (payment_token_id),
+  KEY meta_key (meta_key(32))
+) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[09-Sep-2017 15:21:11 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[09-Sep-2017 15:21:11 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[09-Sep-2017 15:21:11 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[09-Sep-2017 15:21:11 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[09-Sep-2017 15:21:11 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[09-Sep-2017 15:28:09 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[09-Sep-2017 15:28:09 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[09-Sep-2017 15:28:09 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[09-Sep-2017 15:28:09 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[09-Sep-2017 15:28:09 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[09-Sep-2017 15:43:06 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[09-Sep-2017 15:43:06 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[09-Sep-2017 15:43:06 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[09-Sep-2017 15:43:06 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[09-Sep-2017 15:43:06 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[10-Sep-2017 03:48:12 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[10-Sep-2017 03:48:12 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[10-Sep-2017 03:48:12 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[10-Sep-2017 03:48:12 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[10-Sep-2017 03:48:12 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[10-Sep-2017 03:53:42 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[10-Sep-2017 03:53:42 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[10-Sep-2017 03:53:42 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[10-Sep-2017 03:53:42 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[10-Sep-2017 03:53:42 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[10-Sep-2017 05:31:39 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[10-Sep-2017 05:31:39 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[10-Sep-2017 05:31:39 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[10-Sep-2017 05:31:39 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[10-Sep-2017 05:31:39 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[10-Sep-2017 05:33:05 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[10-Sep-2017 05:33:05 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[10-Sep-2017 05:33:05 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[10-Sep-2017 05:33:05 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[10-Sep-2017 05:33:05 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[10-Sep-2017 05:34:02 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[10-Sep-2017 05:34:02 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[10-Sep-2017 05:34:02 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[10-Sep-2017 05:34:02 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[10-Sep-2017 05:34:02 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[10-Sep-2017 05:38:00 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[10-Sep-2017 05:38:00 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[10-Sep-2017 05:38:00 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[10-Sep-2017 05:38:00 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[10-Sep-2017 05:38:00 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[10-Sep-2017 13:10:41 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[10-Sep-2017 13:10:41 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[10-Sep-2017 13:10:41 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[10-Sep-2017 13:10:41 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[10-Sep-2017 13:10:41 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[10-Sep-2017 13:19:55 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[10-Sep-2017 13:19:55 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[10-Sep-2017 13:19:55 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[10-Sep-2017 13:19:55 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[10-Sep-2017 13:19:55 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[10-Sep-2017 13:20:18 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[10-Sep-2017 13:20:18 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[10-Sep-2017 13:20:18 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[10-Sep-2017 13:20:18 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[10-Sep-2017 13:20:18 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[10-Sep-2017 13:24:31 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[10-Sep-2017 13:24:31 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[10-Sep-2017 13:24:31 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[10-Sep-2017 13:24:31 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[10-Sep-2017 13:24:31 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 01:21:20 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[11-Sep-2017 01:21:20 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 01:21:20 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 01:21:20 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 01:21:20 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 02:17:52 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[11-Sep-2017 02:17:52 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 02:17:52 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 02:17:52 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 02:17:52 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 02:21:57 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[11-Sep-2017 02:21:57 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 02:21:57 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 02:21:57 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 02:21:57 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 03:17:33 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[11-Sep-2017 03:17:33 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 03:17:33 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 03:17:33 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 03:17:33 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 03:55:11 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[11-Sep-2017 03:55:11 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 03:55:11 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 03:55:11 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 03:55:11 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 03:55:53 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[11-Sep-2017 03:55:53 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 03:55:53 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 03:55:53 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 03:55:53 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 04:03:34 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[11-Sep-2017 04:03:34 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 04:03:34 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 04:03:34 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 04:03:34 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 06:28:48 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[11-Sep-2017 06:28:48 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 06:28:48 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 06:28:48 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 06:28:48 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 10:08:43 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[11-Sep-2017 10:08:43 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 10:08:43 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 10:08:43 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 10:08:43 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 10:08:57 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[11-Sep-2017 10:08:57 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 10:08:57 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 10:08:57 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 10:08:57 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 10:14:45 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[11-Sep-2017 10:14:45 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 10:14:45 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 10:14:45 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 10:14:45 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 10:18:40 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[11-Sep-2017 10:18:40 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 10:18:40 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 10:18:40 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 10:18:40 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 10:20:56 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[11-Sep-2017 10:20:56 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 10:20:56 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 10:20:56 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 10:20:56 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 10:22:46 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[11-Sep-2017 10:22:46 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 10:22:46 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 10:22:46 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 10:22:46 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 10:22:56 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[11-Sep-2017 10:22:56 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 10:22:56 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 10:22:56 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 10:22:56 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 10:24:45 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[11-Sep-2017 10:24:45 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 10:24:45 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 10:24:45 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 10:24:45 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 10:28:42 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[11-Sep-2017 10:28:42 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 10:28:42 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 10:28:42 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 10:28:42 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 10:28:42 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[11-Sep-2017 10:28:42 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 10:28:42 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 10:28:42 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 10:28:42 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 10:40:13 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[11-Sep-2017 10:40:13 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 10:40:13 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 10:40:13 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 10:40:13 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 10:44:24 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[11-Sep-2017 10:44:25 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 10:44:25 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[11-Sep-2017 10:44:25 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[11-Sep-2017 10:44:25 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[12-Sep-2017 08:34:10 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[12-Sep-2017 08:34:10 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[12-Sep-2017 08:34:10 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[12-Sep-2017 08:34:10 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[12-Sep-2017 08:34:10 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[12-Sep-2017 10:03:52 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[12-Sep-2017 10:03:52 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[12-Sep-2017 10:03:52 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[12-Sep-2017 10:03:52 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[12-Sep-2017 10:03:52 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[12-Sep-2017 10:07:39 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[12-Sep-2017 10:07:39 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[12-Sep-2017 10:07:39 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[12-Sep-2017 10:07:39 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[12-Sep-2017 10:07:39 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[12-Sep-2017 12:18:05 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[12-Sep-2017 12:18:05 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[12-Sep-2017 12:18:05 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[12-Sep-2017 12:18:05 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[12-Sep-2017 12:18:05 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[12-Sep-2017 12:43:19 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[12-Sep-2017 12:43:19 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[12-Sep-2017 12:43:19 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[12-Sep-2017 12:43:19 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[12-Sep-2017 12:43:19 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[20-Sep-2017 13:19:36 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.0.7. Replace with woocommerce_add_to_cart_fragments.
+[20-Sep-2017 13:19:36 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[20-Sep-2017 13:19:36 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[20-Sep-2017 13:19:36 UTC] The woocommerce_price function is deprecated since version 3.0. Replace with wc_price.
+[20-Sep-2017 13:19:36 UTC] The woocommerce_get_page_id function is deprecated since version 3.0. Replace with wc_get_page_id.
+[05-Oct-2017 20:58:14 UTC] PHP Warning:  include(/home/kuekers/staging.kuekers.com/wp-content/plugins/yith-woocommerce-social-login/includes/hybridauth/vendor/composer/../../hybridauth/Hybrid/thirdparty/OAuth/OAuth.php): failed to open stream: No such file or directory in /home/kuekers/staging.kuekers.com/wp-content/plugins/plugin-ongkos-kirim/vendor/composer/ClassLoader.php on line 412
+[05-Oct-2017 20:58:14 UTC] PHP Warning:  include(): Failed opening '/home/kuekers/staging.kuekers.com/wp-content/plugins/yith-woocommerce-social-login/includes/hybridauth/vendor/composer/../../hybridauth/Hybrid/thirdparty/OAuth/OAuth.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kuekers/staging.kuekers.com/wp-content/plugins/plugin-ongkos-kirim/vendor/composer/ClassLoader.php on line 412
+[05-Oct-2017 20:58:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kuekers/staging.kuekers.com/wp-content/plugins/plugin-ongkos-kirim/vendor/composer/ClassLoader.php:412) in /home/kuekers/staging.kuekers.com/wp-content/plugins/yith-woocommerce-social-login/includes/hybridauth/Hybrid/Auth.php on line 367
+[07-Oct-2017 03:03:33 UTC] PHP Warning:  include(/home/kuekers/staging.kuekers.com/wp-content/plugins/yith-woocommerce-social-login/includes/hybridauth/vendor/composer/../../hybridauth/Hybrid/thirdparty/OAuth/OAuth.php): failed to open stream: No such file or directory in /home/kuekers/staging.kuekers.com/wp-content/plugins/plugin-ongkos-kirim/vendor/composer/ClassLoader.php on line 412
+[07-Oct-2017 03:03:33 UTC] PHP Warning:  include(): Failed opening '/home/kuekers/staging.kuekers.com/wp-content/plugins/yith-woocommerce-social-login/includes/hybridauth/vendor/composer/../../hybridauth/Hybrid/thirdparty/OAuth/OAuth.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kuekers/staging.kuekers.com/wp-content/plugins/plugin-ongkos-kirim/vendor/composer/ClassLoader.php on line 412
+[07-Oct-2017 03:03:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kuekers/staging.kuekers.com/wp-content/plugins/plugin-ongkos-kirim/vendor/composer/ClassLoader.php:412) in /home/kuekers/staging.kuekers.com/wp-content/plugins/yith-woocommerce-social-login/includes/hybridauth/Hybrid/Auth.php on line 367
+[07-Oct-2017 03:03:59 UTC] PHP Warning:  include(/home/kuekers/staging.kuekers.com/wp-content/plugins/yith-woocommerce-social-login/includes/hybridauth/vendor/composer/../../hybridauth/Hybrid/thirdparty/OAuth/OAuth.php): failed to open stream: No such file or directory in /home/kuekers/staging.kuekers.com/wp-content/plugins/plugin-ongkos-kirim/vendor/composer/ClassLoader.php on line 412
+[07-Oct-2017 03:03:59 UTC] PHP Warning:  include(): Failed opening '/home/kuekers/staging.kuekers.com/wp-content/plugins/yith-woocommerce-social-login/includes/hybridauth/vendor/composer/../../hybridauth/Hybrid/thirdparty/OAuth/OAuth.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kuekers/staging.kuekers.com/wp-content/plugins/plugin-ongkos-kirim/vendor/composer/ClassLoader.php on line 412
+[07-Oct-2017 03:03:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kuekers/staging.kuekers.com/wp-content/plugins/plugin-ongkos-kirim/vendor/composer/ClassLoader.php:412) in /home/kuekers/staging.kuekers.com/wp-content/plugins/yith-woocommerce-social-login/includes/hybridauth/Hybrid/Auth.php on line 367

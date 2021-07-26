@@ -1,0 +1,247 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-10 15:05+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: WooRockets <support@woorockets.com>\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+
+#: includes/meta-box.php:25 includes/settings.php:25
+#: templates/share/cart.php:26 templates/share/product.php:13
+msgid "Share for Discounts"
+msgstr ""
+
+#: includes/settings.php:135
+msgid "Open Share for Discounts Settings"
+msgstr ""
+
+#: includes/settings.php:135
+msgid "Settings"
+msgstr ""
+
+#: includes/share.php:125
+msgid "Failed to apply cart discount!"
+msgstr ""
+
+#: includes/share.php:129
+msgid "Cart discount is not enabled!"
+msgstr ""
+
+#: includes/share.php:162
+msgid "Failed to create discount coupon!"
+msgstr ""
+
+#: includes/share.php:166
+msgid "Discount coupon is not enabled!"
+msgstr ""
+
+#: includes/share.php:270
+msgid "Product discount is not enabled!"
+msgstr ""
+
+#: includes/share.php:274
+msgid "Product not found!"
+msgstr ""
+
+#: templates/meta-box.php:16 templates/settings/discount.php:17
+#: templates/settings/discount.php:36 templates/settings/discount.php:94
+#: templates/settings/sharing.php:17 templates/settings/sharing.php:78
+#: templates/settings/sharing.php:121
+msgid "Enable?"
+msgstr ""
+
+#: templates/meta-box.php:26
+msgid "Discount Type"
+msgstr ""
+
+#: templates/meta-box.php:31
+msgid "Individual"
+msgstr ""
+
+#: templates/meta-box.php:34
+msgid "Mass"
+msgstr ""
+
+#: templates/meta-box.php:38
+msgid ""
+"<b>Individual</b> applies discount for the user who like/share the product "
+"only."
+msgstr ""
+
+#: templates/meta-box.php:40
+msgid ""
+"<b>Mass</b> reduces the product price by the number of like/share received "
+"multiplying with the amount defined below."
+msgstr ""
+
+#: templates/meta-box.php:57
+msgid "Minimum Price"
+msgstr ""
+
+#: templates/meta-box.php:64
+msgid ""
+"The minimum product price at which discount will not be applied any more."
+msgstr ""
+
+#: templates/meta-box.php:70 templates/settings/discount.php:60
+#: templates/settings/discount.php:118
+msgid "Discount Amount"
+msgstr ""
+
+#: templates/meta-box.php:78 templates/settings/discount.php:68
+msgid "%"
+msgstr ""
+
+#: templates/settings.php:15
+msgid "Sharing"
+msgstr ""
+
+#: templates/settings.php:21
+msgid "Discount"
+msgstr ""
+
+#: templates/settings/discount.php:12 templates/settings/discount.php:132
+msgid "Product Discount"
+msgstr ""
+
+#: templates/settings/discount.php:31 templates/settings/discount.php:126
+msgid "Cart Discount"
+msgstr ""
+
+#: templates/settings/discount.php:78 templates/settings/discount.php:142
+msgid "Link to Share"
+msgstr ""
+
+#: templates/settings/discount.php:89
+msgid "Discount Coupon"
+msgstr ""
+
+#: templates/settings/discount.php:129
+msgid "Cart % Discount"
+msgstr ""
+
+#: templates/settings/discount.php:135
+msgid "Product % Discount"
+msgstr ""
+
+#: templates/settings/discount.php:152
+msgid "Shortcode"
+msgstr ""
+
+#: templates/settings/sharing.php:12
+msgid "Facebook Sharing"
+msgstr ""
+
+#: templates/settings/sharing.php:41
+msgid "App ID"
+msgstr ""
+
+#: templates/settings/sharing.php:51 templates/settings/sharing.php:145
+msgid "Button Type"
+msgstr ""
+
+#: templates/settings/sharing.php:56
+msgid "Like and Share Buttons"
+msgstr ""
+
+#: templates/settings/sharing.php:59
+msgid "Like Button Only"
+msgstr ""
+
+#: templates/settings/sharing.php:62 templates/settings/sharing.php:156
+msgid "Share Button Only"
+msgstr ""
+
+#: templates/settings/sharing.php:66
+msgid "Select the type of button you want to show for Facebook"
+msgstr ""
+
+#: templates/settings/sharing.php:73
+msgid "Twitter Sharing"
+msgstr ""
+
+#: templates/settings/sharing.php:102
+msgid "Twitter Username"
+msgstr ""
+
+#: templates/settings/sharing.php:109
+msgid ""
+"Set this option if you want to include \"via @YourUsername\" to your tweets"
+msgstr ""
+
+#: templates/settings/sharing.php:116
+msgid "Google+ Sharing"
+msgstr ""
+
+#: templates/settings/sharing.php:150
+msgid "+1 and Share Buttons"
+msgstr ""
+
+#: templates/settings/sharing.php:153
+msgid "+1 Button Only"
+msgstr ""
+
+#: templates/settings/sharing.php:160
+msgid "Select the type of button you want to show for Google+.<br>"
+msgstr ""
+
+#: templates/settings/sharing.php:161
+msgid ""
+"Note: because of a bug unresolved by Google, the \"Share\" button could not "
+"generate the coupon correctly. For more information about the bug, please <a "
+"href=\"https://code.google.com/p/google-plus-platform/issues/detail?id=232\" "
+"target=\"_blank\">click here</a>."
+msgstr ""
+
+#: templates/share/cart.php:19 templates/share/coupon.php:17
+msgid "Thank you for sharing!"
+msgstr ""
+
+#: templates/share/cart.php:21 templates/share/coupon.php:19
+msgid ""
+"To express our thankful with you, we&#39;ve created the one-time coupon code "
+"below to apply to your cart."
+msgstr ""
+
+#: templates/share/cart.php:44 templates/share/coupon.php:43
+#: templates/share/product.php:32
+msgid "Share"
+msgstr ""
+
+#: templates/share/cart.php:59 templates/share/coupon.php:58
+#: templates/share/product.php:47
+msgid "Tweet"
+msgstr ""
+
+#: templates/share/coupon.php:24
+msgid "Share for Discounts:"
+msgstr ""
+
+#. Name of the plugin
+msgid "WR Share for Discounts"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"An add-on for WooCommerce that allows customer share a product to get "
+"discount."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.woorockets.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "WooRockets <admin@woorockets.com>"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://woorockets.com/"
+msgstr ""
